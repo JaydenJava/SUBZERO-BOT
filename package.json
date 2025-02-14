@@ -52,6 +52,12 @@
     "mrnima-moviedl":"1.0.0",
     "acrcloud": "^1.4.0",
     "mongoose": "^8.0.0",
-    "dotenv": "^16.0.0"
+    "node-cache" :"^5.1.1",
+    "wikipedia": "^2.1.2",
+    "javascript-obfuscator": "^4.0.0",
+    "pdf-lib": "^1.17.1",
+    "telegraph": "^0.8.22",
+    "imgur": "^2.1.0",
+    "dotenv": "^16.0.0"   
   }
 }
